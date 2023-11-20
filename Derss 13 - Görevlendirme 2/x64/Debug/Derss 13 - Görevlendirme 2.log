@@ -1,0 +1,6 @@
+﻿  Derss 13 - Görevlendirme 2.cpp
+C:\Users\TURKEY\source\repos\Basics Of CPP\Derss 13 - Görevlendirme 2\Derss 13 - Görevlendirme 2.cpp(17,22): warning C4566: '\u00E7' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1251) temsil gösterilemiyor
+C:\Users\TURKEY\source\repos\Basics Of CPP\Derss 13 - Görevlendirme 2\Derss 13 - Görevlendirme 2.cpp(17,22): warning C4566: '\u0131' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1251) temsil gösterilemiyor
+C:\Users\TURKEY\source\repos\Basics Of CPP\Derss 13 - Görevlendirme 2\Derss 13 - Görevlendirme 2.cpp(30,22): warning C4566: '\u00E7' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1251) temsil gösterilemiyor
+C:\Users\TURKEY\source\repos\Basics Of CPP\Derss 13 - Görevlendirme 2\Derss 13 - Görevlendirme 2.cpp(30,22): warning C4566: '\u0131' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1251) temsil gösterilemiyor
+  Derss 13 - Görevlendirme 2.vcxproj -> C:\Users\TURKEY\source\repos\Basics Of CPP\x64\Debug\Derss 13 - Görevlendirme 2.exe
