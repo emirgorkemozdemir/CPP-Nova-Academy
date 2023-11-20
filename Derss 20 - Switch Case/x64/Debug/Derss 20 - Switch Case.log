@@ -1,0 +1,5 @@
+﻿  Derss 20 - Switch Case.cpp
+C:\Users\TURKEY\source\repos\Basics Of CPP\Derss 20 - Switch Case\Derss 20 - Switch Case.cpp(17,16): warning C4566: '\u0131' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1251) temsil gösterilemiyor
+C:\Users\TURKEY\source\repos\Basics Of CPP\Derss 20 - Switch Case\Derss 20 - Switch Case.cpp(20,16): warning C4566: '\u00C7' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1251) temsil gösterilemiyor
+C:\Users\TURKEY\source\repos\Basics Of CPP\Derss 20 - Switch Case\Derss 20 - Switch Case.cpp(20,16): warning C4566: '\u015F' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1251) temsil gösterilemiyor
+  Derss 20 - Switch Case.vcxproj -> C:\Users\TURKEY\source\repos\Basics Of CPP\x64\Debug\Derss 20 - Switch Case.exe
