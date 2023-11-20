@@ -1,0 +1,7 @@
+﻿  Derss 28 - Loops Last Example.cpp
+C:\Users\TURKEY\source\repos\Basics Of CPP\Derss 28 - Loops Last Example\Derss 28 - Loops Last Example.cpp(1,1): warning C4005: 'UNICODE': makro yeniden tanımlama
+C:\Users\TURKEY\source\repos\Basics Of CPP\Derss 28 - Loops Last Example\Derss 28 - Loops Last Example.cpp(1,1): message : 'UNICODE' önceden komut satırında bildirildi
+C:\Users\TURKEY\source\repos\Basics Of CPP\Derss 28 - Loops Last Example\Derss 28 - Loops Last Example.cpp(13,15): warning C4566: '\u00DC' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1251) temsil gösterilemiyor
+C:\Users\TURKEY\source\repos\Basics Of CPP\Derss 28 - Loops Last Example\Derss 28 - Loops Last Example.cpp(13,15): warning C4566: '\u00C7' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1251) temsil gösterilemiyor
+C:\Users\TURKEY\source\repos\Basics Of CPP\Derss 28 - Loops Last Example\Derss 28 - Loops Last Example.cpp(18,16): warning C4566: '\u0131' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1251) temsil gösterilemiyor
+  Derss 28 - Loops Last Example.vcxproj -> C:\Users\TURKEY\source\repos\Basics Of CPP\x64\Debug\Derss 28 - Loops Last Example.exe
