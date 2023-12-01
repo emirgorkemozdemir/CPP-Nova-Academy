@@ -1,0 +1,4 @@
+﻿  Derss 35 - Class.cpp
+C:\Users\TURKEY\source\repos\Basics Of CPP\Derss 35 - Class\Derss 35 - Class.cpp(65,42): warning C4566: '\u0131' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1251) temsil gösterilemiyor
+C:\Users\TURKEY\source\repos\Basics Of CPP\Derss 35 - Class\Derss 35 - Class.cpp(115,34): warning C4566: '\u00D6' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1251) temsil gösterilemiyor
+  Derss 35 - Class.vcxproj -> C:\Users\TURKEY\source\repos\Basics Of CPP\x64\Debug\Derss 35 - Class.exe
