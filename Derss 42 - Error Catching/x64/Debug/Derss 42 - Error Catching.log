@@ -1,0 +1,6 @@
+﻿  Derss 42 - Error Catching.cpp
+C:\Users\TURKEY\source\repos\Basics Of CPP\Derss 42 - Error Catching\Derss 42 - Error Catching.cpp(21,16): warning C4566: '\u015F' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1251) temsil gösterilemiyor
+C:\Users\TURKEY\source\repos\Basics Of CPP\Derss 42 - Error Catching\Derss 42 - Error Catching.cpp(21,16): warning C4566: '\u00FC' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1251) temsil gösterilemiyor
+C:\Users\TURKEY\source\repos\Basics Of CPP\Derss 42 - Error Catching\Derss 42 - Error Catching.cpp(21,16): warning C4566: '\u00E7' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1251) temsil gösterilemiyor
+C:\Users\TURKEY\source\repos\Basics Of CPP\Derss 42 - Error Catching\Derss 42 - Error Catching.cpp(19,13): warning C4101: 'age': yerel değişken başvurusu kaldırıldı
+  Derss 42 - Error Catching.vcxproj -> C:\Users\TURKEY\source\repos\Basics Of CPP\x64\Debug\Derss 42 - Error Catching.exe
