@@ -1,0 +1,8 @@
+﻿  Login.cpp
+C:\Users\TURKEY\source\repos\Forms CPP DB Örnek\Forms CPP DB Örnek\MyForm.h(237,2): error C2065: 'Login': undeclared identifier
+C:\Users\TURKEY\source\repos\Forms CPP DB Örnek\Forms CPP DB Örnek\MyForm.h(237,9): error C2065: 'login': undeclared identifier
+C:\Users\TURKEY\source\repos\Forms CPP DB Örnek\Forms CPP DB Örnek\MyForm.h(237,23): error C2061: syntax error: identifier 'Login'
+C:\Users\TURKEY\source\repos\Forms CPP DB Örnek\Forms CPP DB Örnek\MyForm.h(238,2): error C2065: 'login': undeclared identifier
+  MyForm.cpp
+C:\Users\TURKEY\source\repos\Forms CPP DB Örnek\Forms CPP DB Örnek\MyForm.cpp(8,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Generating Code...
