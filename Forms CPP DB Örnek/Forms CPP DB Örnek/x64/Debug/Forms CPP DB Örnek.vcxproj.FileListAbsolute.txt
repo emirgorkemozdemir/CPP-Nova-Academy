@@ -1,0 +1,4 @@
+C:\Users\TURKEY\source\repos\Forms CPP DB Örnek\Forms CPP DB Örnek\x64\Debug\Forms CPP DB Örnek.vcxproj.AssemblyReference.cache
+C:\Users\TURKEY\source\repos\Forms CPP DB Örnek\Forms CPP DB Örnek\x64\Debug\FormsCPPDBÖrnek.MyForm.resources
+C:\Users\TURKEY\source\repos\Forms CPP DB Örnek\Forms CPP DB Örnek\x64\Debug\Forms CPP DB Örnek.vcxproj.GenerateResource.cache
+C:\Users\TURKEY\source\repos\Forms CPP DB Örnek\Forms CPP DB Örnek\x64\Debug\FormsCPPDBÖrnek.Login.resources

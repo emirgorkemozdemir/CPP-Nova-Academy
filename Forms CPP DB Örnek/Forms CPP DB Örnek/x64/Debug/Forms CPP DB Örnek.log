@@ -1,0 +1,6 @@
+﻿  Login.cpp
+  MyForm.cpp
+C:\Users\TURKEY\source\repos\Forms CPP DB Örnek\Forms CPP DB Örnek\MyForm.cpp(8,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Generating Code...
+  Login.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Forms CPP DB Örnek.vcxproj -> C:\Users\TURKEY\source\repos\Forms CPP DB Örnek\x64\Debug\Forms CPP DB Örnek.exe
