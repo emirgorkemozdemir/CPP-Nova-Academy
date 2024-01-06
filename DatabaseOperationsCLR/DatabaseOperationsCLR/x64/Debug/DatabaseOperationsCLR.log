@@ -1,0 +1,6 @@
+﻿  HashSHA256.cpp
+  Register.cpp
+C:\Users\TURKEY\source\repos\DatabaseOperationsCLR\DatabaseOperationsCLR\Register.cpp(7,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Generating Code...
+  HashSHA256.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  DatabaseOperationsCLR.vcxproj -> C:\Users\TURKEY\source\repos\DatabaseOperationsCLR\x64\Debug\DatabaseOperationsCLR.exe

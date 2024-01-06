@@ -1,0 +1,3 @@
+C:\Users\TURKEY\source\repos\DatabaseOperationsCLR\DatabaseOperationsCLR\x64\Debug\DatabaseOperationsCLR.vcxproj.AssemblyReference.cache
+C:\Users\TURKEY\source\repos\DatabaseOperationsCLR\DatabaseOperationsCLR\x64\Debug\DatabaseOperationsCLR.Register.resources
+C:\Users\TURKEY\source\repos\DatabaseOperationsCLR\DatabaseOperationsCLR\x64\Debug\DatabaseOperationsCLR.vcxproj.GenerateResource.cache
