@@ -1,0 +1,4 @@
+C:\Users\TURKEY\source\repos\ClrDbExample\ClrDbExample\x64\Debug\ClrDbExample.vcxproj.AssemblyReference.cache
+C:\Users\TURKEY\source\repos\ClrDbExample\ClrDbExample\x64\Debug\ClrDbExample.Register.resources
+C:\Users\TURKEY\source\repos\ClrDbExample\ClrDbExample\x64\Debug\ClrDbExample.vcxproj.GenerateResource.cache
+C:\Users\TURKEY\source\repos\ClrDbExample\ClrDbExample\x64\Debug\ClrDbExample.Login.resources
