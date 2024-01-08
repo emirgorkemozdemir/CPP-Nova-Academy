@@ -1,0 +1,12 @@
+﻿  NavigatorClass.cpp
+C:\Users\TURKEY\source\repos\ClrDbExample\ClrDbExample\NavigatorClass.h(8,2): warning C4091: 'static ': ignored on left of 'NavigatorClass' when no variable is declared
+C:\Users\TURKEY\source\repos\ClrDbExample\ClrDbExample\MyConnection.h(18,2): warning C4091: 'static ': ignored on left of 'MyConnection' when no variable is declared
+C:\Users\TURKEY\source\repos\ClrDbExample\ClrDbExample\Register.h(230,22): warning C4101: 'ex': unreferenced local variable
+C:\Users\TURKEY\source\repos\ClrDbExample\ClrDbExample\Login.h(165,21): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1251)
+C:\Users\TURKEY\source\repos\ClrDbExample\ClrDbExample\Login.h(173,21): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1251)
+  Products.cpp
+C:\Users\TURKEY\source\repos\ClrDbExample\ClrDbExample\MyConnection.h(18,2): warning C4091: 'static ': ignored on left of 'MyConnection' when no variable is declared
+C:\Users\TURKEY\source\repos\ClrDbExample\ClrDbExample\NavigatorClass.h(8,2): warning C4091: 'static ': ignored on left of 'NavigatorClass' when no variable is declared
+  Generating Code...
+  Login.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ClrDbExample.vcxproj -> C:\Users\TURKEY\source\repos\ClrDbExample\x64\Debug\ClrDbExample.exe
